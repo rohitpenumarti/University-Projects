@@ -1,6 +1,0 @@
-Rohit Penumarti
-PSTAT 176
-6/15/2020
-Final Project Work Split
-
-For the final project I worked on Problems 2, 3, and 5, the StockPath, EurOptPrice, and ContVariate functions.
