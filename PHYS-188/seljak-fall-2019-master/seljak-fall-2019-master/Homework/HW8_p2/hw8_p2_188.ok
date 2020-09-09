@@ -1,0 +1,15 @@
+{
+  "name": "Homework 8 part 2",
+  "endpoint": "cal/phy188288/fa19/assignment8p2",
+  "src": [
+    "HW8_p2_188.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
