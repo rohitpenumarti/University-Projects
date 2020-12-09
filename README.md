@@ -17,11 +17,11 @@ The PHYS 240 folder contains projects from my Statistics, Data Analysis, and Mac
 
 ### Homework #1 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS%20240/Homework%20%231.ipynb))
 
-### HW 2 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS%20240/Homework%20%232.ipynb))
+### Homework #2 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS%20240/Homework%20%232.ipynb))
 
-### HW 3 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS%20240/Homework%20%233.ipynb))
+### Homework #3 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS%20240/Homework%20%233.ipynb))
 
-### HW 4 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS%20240/HW4%20(Final%20Project).ipynb))
+### Homework #4 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS%20240/HW4%20(Final%20Project).ipynb))
 
 ## PSTAT 176 ([link](https://github.com/rohitpenumarti/University-Projects/tree/dev/PSTAT%20176))
 The PSTAT 176 folder contains projects from my Advanced Mathematical Finance Course. It focused on topics in option pricing, monte carlo simulation, and other miscellaneous material such as the Markowitz Mean-Variance portfolio optimization and material on interest rate swaps. The homeworks folder contains all homework coding projects which make use of different monte carlo simulation and variance reduction techniques such as anithetic variates, quasi-monte carlo, stratified sampling, importance sampling, and control variates. The final project is on pricing American options using the Longstaff-Schwartz algorithm and control variates to reduce variance in the estimate.
