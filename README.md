@@ -1,4 +1,4 @@
-# Undergraduate Projects
+# Projects
 
 1. [Bayesian Data Analysis and Machine Learning for Physical Sciences](#bayesian-data-analysis-and-machine-learning-for-physical-sciences-link)
     1. [MNIST Digit Classification With Keras](#mnist-digit-classification-with-keras)
