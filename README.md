@@ -1,7 +1,8 @@
 # University-Projects
 
-All of my relevant coding projects during my undergraduate education are contained in this github. 
+All of my undergraduate coding projects saved here. 
 
+## PSTAT 176
 The PSTAT 176 folder contains projects from my Advanced Mathematical Finance Course. It focused on topics in option pricing, monte carlo simulation, and other miscellaneous material such as the Markowitz Mean-Variance portfolio optimization and material on interest rate swaps. The homeworks folder contains all homework coding projects which make use of different monte carlo simulation and variance reduction techniques such as anithetic variates, quasi-monte carlo, stratified sampling, importance sampling, and control variates. The final project is on pricing American options using the Longstaff-Schwartz algorithm and control variates to reduce variance in the estimate.
 
 The PHYS 240 folder contains projects from my Statistics, Data Analysis, and Machine Learning for Physicists course. There are several projects that focus on parameter estimation for astronomical systems. I use chi-square fitting and non-linear least squares to determine model parameters. MCMC is also another model estimation technique that uses posterior parameter space chain to sample parameters. Another method is Gaussian mixture models to estimate parameters and classify outlier data. I use bootstrap resampling to estimate errors in parameter estimation. I also use PCA to reduce dimension in image data as well as Gaussian Process Regression to estimate bad pixel values.
