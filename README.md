@@ -1,6 +1,6 @@
 # Undergraduate Projects
 
-1. [PHYS 188](#PHYS-188)
+1. [PHYS 188](#PHYS-188-link)
 2. [PHYS 240](#PHYS-240)
     1. [Homework #1](#HW-1)
 3. [PSTAT 176](#PSTAT-176)
