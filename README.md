@@ -5,16 +5,16 @@
     2. [2D Ising Model Classification With Tensorflow](#2d-ising-model-classification-with-tensorflow)
     3. [Redshift Estimation and Galaxy Classification](#redshift-estimation-and-galaxy-classification)
 2. [PHYS 240](#PHYS-240-link)
-    1. [Chi-square Fitting of Noisy Data and Likelihood Modeling of Supernova Neutrino Data](#homework-1-link)
-    2. [Non-linear Least Squares Fitting of Temperature Data](#homework-2-link)
-    3. [Outlier Treatment and Bootstrapping, MCMC, and PCA](#homework-3-link)
-    4. [Gaussian Process Regression, Mixture Modeling and Bootstrapping, and Model Selection](#homework-4-link)
+    1. [Chi-square Fitting of Noisy Data and Likelihood Modeling of Supernova Neutrino Data](#chi-square-fitting-of-noisy-data-and-likelihood-modeling-of-supernova-neutrino-data)
+    2. [Non-linear Least Squares Fitting of Temperature Data](#non-linear-least-squares-fitting-of-temperature-data)
+    3. [Outlier Treatment and Bootstrapping, MCMC, and PCA](#outlier-treatment-and-bootstrapping-mcmc-and-pca)
+    4. [Gaussian Process Regression, Mixture Modeling and Bootstrapping, and Model Selection](#gaussian-process-regression-mixture-modeling-and-bootstrapping-and-model-selection)
 3. [PSTAT 176](#PSTAT-176-link)
-    1. [Binomial Option Pricing of Exotic Options Using Basic Monte Carlo Methods](#homework-1-link)
-    2. [Binomial and Black Scholes Option Pricing using Basic Monte Carlo Methods](#homework-2-link)
-    3. [Variance Reduction Analysis and Markowitz Mean-Variance Portfolio Optimization](#homework-3-link)
-    4. [CAPM and Exponential Utility Maximization](#homework-4-link)
-    5. [American Option Pricing](#final-project-american-option-pricing-link)
+    1. [Binomial Option Pricing of Exotic Options Using Basic Monte Carlo Methods](#binomial-option-pricing-of-exotic-options-using-basic-monte-carlo-methods)
+    2. [Binomial and Black Scholes Option Pricing using Basic Monte Carlo Methods](#binomial-and-black-scholes-option-pricing-using-basic-monte-carlo-methods)
+    3. [Variance Reduction Analysis and Markowitz Mean-Variance Portfolio Optimization](#variance-reduction-analysis-and-markowitz-mean-variance-portfolio-optimization)
+    4. [CAPM](#capm)
+    5. [American Option Pricing](#american-option-pricing-link)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 ## PHYS 188 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS-188/Homework/Project3/Project3_288.ipynb))
@@ -94,11 +94,8 @@ The second problem asked to price a stop-loss contract like those used in medica
 
 The next three problems involved a mix of a few problems involved mean-variance portfolio optimization. These mix of problems included generating plots of the efficient frontier for a given set of data, calculating weights for maximum portfolios, finding minimum variance for a given target return, and market portfolio calculation.
 
-### CAPM and Exponential Utility Maximization ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PSTAT%20176/Homeworks/Homework%204/Penumarti.Rohit.HW4.ipynb))
-This assignment involved CAPM and utility maximization for optimal terminal wealth.
-
-The first problem asked a problem on mean-variance portfolio optimization for a fictional example of a UCSB program hosting a concert. It involved calculating expected returns based on cost to have the concert and ticket sales as well as insurance considerations for certain conditions. Variance of returns was calculated.
-
-The next two problems involved using CAPM to estimate the market portfolio
+### CAPM ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PSTAT%20176/Homeworks/Homework%204/Penumarti.Rohit.HW4.ipynb))
+This assignment involved one coded problem on CAPM. It provided daily closing prices for Microsoft, IBM, and Hasbro over the past year. With these market data, the task was to obtain the monthly average return, variance and covariance among the three assets over the last six months. Then, the next task was to calculate the weights of the market portfolio along with its risk and return. These were then repeated for the first six months and then for the whole year.
 
 ### American Option Pricing ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PSTAT%20176/Final%20Project%20Report.ipynb))
+For this project, we had to choose a stock to price an option with a set strike and expiration. We chose Google and chose to price an American put option with strike 1440 and expiration of one year. Using data from the past year, calculated the volatility in the stock price, then simulated stock paths, and then calculated the european option price for reference. Next, to estimate the option price for the American put, we used the Longstaff-Schwartz method for American option pricing. To do so, we used a polynomial regression model to fit continuation values at the nodes. From that we are able to calculate the price and variance in the estimate. Finally, to create a more accurate solution, we introduced control variates and applied it to the algorithm to reduce variance in our estimate.
