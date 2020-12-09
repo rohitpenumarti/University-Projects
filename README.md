@@ -1,13 +1,9 @@
-# Table of Contents
+# Undergraduate Projects
 
 1. [PSTAT 176](#PSTAT-176)
 2. [PHYS 188](#PHYS-188)
 3. [PHYS 240](#PHYS-240)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
-# University Projects
-
-All of my undergraduate coding projects saved here. 
 
 ## PSTAT 176
 The PSTAT 176 folder contains projects from my Advanced Mathematical Finance Course. It focused on topics in option pricing, monte carlo simulation, and other miscellaneous material such as the Markowitz Mean-Variance portfolio optimization and material on interest rate swaps. The homeworks folder contains all homework coding projects which make use of different monte carlo simulation and variance reduction techniques such as anithetic variates, quasi-monte carlo, stratified sampling, importance sampling, and control variates. The final project is on pricing American options using the Longstaff-Schwartz algorithm and control variates to reduce variance in the estimate.
