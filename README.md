@@ -1,6 +1,6 @@
 # Undergraduate Projects
 
-1. [PHYS 188](#PHYS-188-link)
+1. [Bayesian Data Analysis and Machine Learning for Physical Sciences](#PHYS-188-link)
     1. [MNIST Digit Classification With Keras](#mnist-digit-classification-with-keras)
     2. [2D Ising Model Classification With Tensorflow](#2d-ising-model-classification-with-tensorflow)
     3. [Redshift Estimation and Galaxy Classification](#redshift-estimation-and-galaxy-classification)
