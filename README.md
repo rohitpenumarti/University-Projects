@@ -1,9 +1,9 @@
 # Undergraduate Projects
 
 1. [PHYS 188](#PHYS-188-link)
-2. [PHYS 240](#PHYS-240)
+2. [PHYS 240](#PHYS-240-link)
     1. [Homework #1](#HW-1)
-3. [PSTAT 176](#PSTAT-176)
+3. [PSTAT 176](#PSTAT-176-link)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 ## PHYS 188 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS-188/Homework/Project3/Project3_288.ipynb))
@@ -12,7 +12,7 @@ The PHYS 188 folder contains a project focused on Neural Network Classification.
 ## PHYS 240 ([link](https://github.com/rohitpenumarti/University-Projects/tree/dev/PHYS%20240))
 The PHYS 240 folder contains projects from my Statistics, Data Analysis, and Machine Learning for Physicists course. There were four assignments required for the course.
 
-### HW 1 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS%20240/Homework%20%231.ipynb))
+### Homework #1 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS%20240/Homework%20%231.ipynb))
 
 ### HW 2 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS%20240/Homework%20%232.ipynb))
 
