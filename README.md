@@ -3,10 +3,15 @@
 1. [PHYS 188](#PHYS-188-link)
 2. [PHYS 240](#PHYS-240-link)
     1. [Homework #1](#homework-1-link)
-    1. [Homework #2](#homework-2-link)
-    1. [Homework #3](#homework-3-link)
-    1. [Homework #4](#homework-4-link)
+    2. [Homework #2](#homework-2-link)
+    3. [Homework #3](#homework-3-link)
+    4. [Homework #4](#homework-4-link)
 3. [PSTAT 176](#PSTAT-176-link)
+    1. [Homework #1](#homework-1-link)
+    2. [Homework #2](#homework-2-link)
+    3. [Homework #3](#homework-3-link)
+    4. [Homework #4](#homework-4-link)
+    5. [Final Project (American Option Pricing)](#final-project-link)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 ## PHYS 188 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS-188/Homework/Project3/Project3_288.ipynb))
@@ -25,3 +30,13 @@ The PHYS 240 folder contains projects from my Statistics, Data Analysis, and Mac
 
 ## PSTAT 176 ([link](https://github.com/rohitpenumarti/University-Projects/tree/dev/PSTAT%20176))
 The PSTAT 176 folder contains projects from my Advanced Mathematical Finance Course. It focused on topics in option pricing, monte carlo simulation, and other miscellaneous material such as the Markowitz Mean-Variance portfolio optimization and material on interest rate swaps. The homeworks folder contains all homework coding projects which make use of different monte carlo simulation and variance reduction techniques such as anithetic variates, quasi-monte carlo, stratified sampling, importance sampling, and control variates. The final project is on pricing American options using the Longstaff-Schwartz algorithm and control variates to reduce variance in the estimate.
+
+### Homework #1 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PSTAT%20176/Homeworks/Homework%201/Penumarti.Rohit.HW1.ipynb))
+
+### Homework #2 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PSTAT%20176/Homeworks/Homework%202/Penumarti.Rohit.HW2.ipynb))
+
+### Homework #3 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PSTAT%20176/Homeworks/Homework%203/Penumarti.Rohit.HW3.ipynb))
+
+### Homework #4 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PSTAT%20176/Homeworks/Homework%204/Penumarti.Rohit.HW4.ipynb))
+
+### Final Project (American Option Pricing) ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PSTAT%20176/Final%20Project%20Report.ipynb))
