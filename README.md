@@ -9,13 +9,13 @@
     2. [Non-linear Least Squares Fitting of Temperature Data](#non-linear-least-squares-fitting-of-temperature-data-link)
     3. [Outlier Treatment and Bootstrapping, MCMC, and PCA](#outlier-treatment-and-bootstrapping-mcmc-and-pca-link)
     4. [Gaussian Process Regression, Mixture Modeling and Bootstrapping, and Model Selection](#gaussian-process-regression-mixture-modeling-and-bootstrapping-and-model-selection-link)
-3. [PSTAT 176](#PSTAT-176-link)
+3. [Advanced Mathematical Finance](#advanced-mathematical-finance-link)
     1. [Binomial Option Pricing of Exotic Options Using Basic Monte Carlo Methods](#binomial-option-pricing-of-exotic-options-using-basic-monte-carlo-methods-link)
     2. [Binomial and Black Scholes Option Pricing using Basic Monte Carlo Methods](#binomial-and-black-scholes-option-pricing-using-basic-monte-carlo-methods-link)
     3. [Variance Reduction Analysis and Markowitz Mean-Variance Portfolio Optimization](#variance-reduction-analysis-and-markowitz-mean-variance-portfolio-optimization-link)
     4. [CAPM](#capm-link)
     5. [American Option Pricing](#american-option-pricing-link)
-4. [PHYS 128AL](#PHYS-128AL-link)
+4. [Advanced Lab](#advanced-lab-link)
     1. [Gamma Ray Spectroscopy Lab](#gamma-ray-spectroscopy-lab-link)
     2. [Laser Properties Lab](#laser-properties-lab-link)
 
@@ -64,7 +64,7 @@ The second part of the assignment involved GMM and bootstrap resampling for clus
 
 The last part of the project introduced metrics for analyzing the effectiveness of the models. I had to analyze a study and used two different metrics to see the effectiveness of the models chosen by them.
 
-## PSTAT 176 ([link](https://github.com/rohitpenumarti/University-Projects/tree/dev/PSTAT%20176))
+## Advanced Mathematical Finance ([link](https://github.com/rohitpenumarti/University-Projects/tree/dev/PSTAT%20176))
 The PSTAT 176 folder contains projects from my Advanced Mathematical Finance Course.
 
 ### Binomial Option Pricing of Exotic Options Using Basic Monte Carlo Methods ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PSTAT%20176/Homeworks/Homework%201/Penumarti.Rohit.HW1.ipynb))
@@ -102,7 +102,7 @@ This assignment involved one coded problem on CAPM. It provided daily closing pr
 ### American Option Pricing ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PSTAT%20176/Final%20Project%20Report.ipynb))
 For this project, we had to choose a stock to price an option with a set strike and expiration. We chose Google and chose to price an American put option with strike 1440 and expiration of one year. Using data from the past year, calculated the volatility in the stock price, then simulated stock paths, and then calculated the european option price for reference. Next, to estimate the option price for the American put, we used the Longstaff-Schwartz method for American option pricing. To do so, we used a polynomial regression model to fit continuation values at the nodes. From that we are able to calculate the price and variance in the estimate. Finally, to create a more accurate solution, we introduced control variates and applied it to the algorithm to reduce variance in our estimate.
 
-## PHYS 128AL ([link](https://github.com/rohitpenumarti/University-Projects/tree/dev/PHYS%20128AL))
+## Advanced Lab ([link](https://github.com/rohitpenumarti/University-Projects/tree/dev/PHYS%20128AL))
 The PHYS 128AL folder contains some of the code and images for the model fits in my experiments in my advanced lab course.
 
 ### Gamma Ray Spectroscopy Lab ([link](https://github.com/rohitpenumarti/University-Projects/tree/dev/PHYS%20128AL/Gamma%20Ray%20Spectroscopy%20Lab))
