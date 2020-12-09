@@ -2,7 +2,7 @@
 
 1. [PHYS 188](#PHYS-188-link)
 2. [PHYS 240](#PHYS-240-link)
-    1. [Homework #1](#HW-1)
+    1. [Homework #1](#homework-1-link)
 3. [PSTAT 176](#PSTAT-176-link)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
