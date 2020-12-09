@@ -15,7 +15,9 @@
     3. [Variance Reduction Analysis and Markowitz Mean-Variance Portfolio Optimization](#variance-reduction-analysis-and-markowitz-mean-variance-portfolio-optimization-link)
     4. [CAPM](#capm-link)
     5. [American Option Pricing](#american-option-pricing-link)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+4. [PHYS 128AL](#PHYS-128AL-link)
+    1. [Gamma Ray Spectroscopy Lab](#gamma-ray-spectroscopy-lab-link)
+    2. [Laser Properties Lab](#laser-properties-lab-link)
 
 ## PHYS 188 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS-188/Homework/Project3/Project3_288.ipynb))
 The PHYS 188 folder contains a project focused on Neural Network Classification. It is part of a course in UC Berkeley's physics curriculum which I used to learn more in my free time. 
@@ -99,3 +101,12 @@ This assignment involved one coded problem on CAPM. It provided daily closing pr
 
 ### American Option Pricing ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PSTAT%20176/Final%20Project%20Report.ipynb))
 For this project, we had to choose a stock to price an option with a set strike and expiration. We chose Google and chose to price an American put option with strike 1440 and expiration of one year. Using data from the past year, calculated the volatility in the stock price, then simulated stock paths, and then calculated the european option price for reference. Next, to estimate the option price for the American put, we used the Longstaff-Schwartz method for American option pricing. To do so, we used a polynomial regression model to fit continuation values at the nodes. From that we are able to calculate the price and variance in the estimate. Finally, to create a more accurate solution, we introduced control variates and applied it to the algorithm to reduce variance in our estimate.
+
+## PHYS 128AL ([link](https://github.com/rohitpenumarti/University-Projects/tree/dev/PHYS%20128AL))
+The PHYS 128AL folder contains some of the code and images for the model fits in my experiments in my advanced lab course.
+
+### Gamma Ray Spectroscopy Lab ([link](https://github.com/rohitpenumarti/University-Projects/tree/dev/PHYS%20128AL/Gamma%20Ray%20Spectroscopy%20Lab))
+This folder contains all the MATLAB files for the code that produces the fitted data from my gamma ray spectroscopy experiment. The goal of this lab was to analyze several different samples of radioactive materials and fit data to different relationships in order to make conclusions about the isotopes. The ultimate goal is to identify the unknown radioactive isotope which was found through analyzing the data.
+
+### Laser Properties Lab ([link](https://github.com/rohitpenumarti/University-Projects/tree/dev/PHYS%20128AL/Laser%20Properties%20Lab))
+This folder contains all the MATLAB files for the code that produces the fitted data from my laser properties experiment. The goal of the laser properties lab was to analyze properties of laser given different optical arrangements. The first part of the lab was dedicated to finding the polarization of the laser. The next part involved finding the beam diameter which was found through the help of the fitted data. Finally, we had to find the beam divergence and did so through another fitted data set.
