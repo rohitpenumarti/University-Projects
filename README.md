@@ -1,8 +1,8 @@
 # Table of Contents
 
-1. [PSTAT 176](#PSTAT_176)
-2. [PHYS 188](#PHYS_188)
-3. [PHYS 240](#PHYS_240)
+1. [PSTAT 176](#PSTAT-176)
+2. [PHYS 188](#PHYS-188)
+3. [PHYS 240](#PHYS-240)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 # University Projects
