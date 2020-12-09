@@ -1,10 +1,10 @@
 # Undergraduate Projects
 
-1. [Bayesian Data Analysis and Machine Learning for Physical Sciences](#PHYS-188-link)
+1. [Bayesian Data Analysis and Machine Learning for Physical Sciences](#bayesian-data-analysis-and-machine-learning-for-physical-sciences-link)
     1. [MNIST Digit Classification With Keras](#mnist-digit-classification-with-keras)
     2. [2D Ising Model Classification With Tensorflow](#2d-ising-model-classification-with-tensorflow)
     3. [Redshift Estimation and Galaxy Classification](#redshift-estimation-and-galaxy-classification)
-2. [PHYS 240](#PHYS-240-link)
+2. [Statistics, Data Analysis, and Machine Learning for Physicists](#statistics-data-analysis-and-machine-learning-for-physicists-link)
     1. [Chi-square Fitting of Noisy Data and Likelihood Modeling of Supernova Neutrino Data](#chi-square-fitting-of-noisy-data-and-likelihood-modeling-of-supernova-neutrino-data-link)
     2. [Non-linear Least Squares Fitting of Temperature Data](#non-linear-least-squares-fitting-of-temperature-data-link)
     3. [Outlier Treatment and Bootstrapping, MCMC, and PCA](#outlier-treatment-and-bootstrapping-mcmc-and-pca-link)
@@ -19,7 +19,7 @@
     1. [Gamma Ray Spectroscopy Lab](#gamma-ray-spectroscopy-lab-link)
     2. [Laser Properties Lab](#laser-properties-lab-link)
 
-## PHYS 188 ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS-188/Homework/Project3/Project3_288.ipynb))
+## Bayesian Data Analysis and Machine Learning for Physical Sciences ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS-188/Homework/Project3/Project3_288.ipynb))
 The PHYS 188 folder contains a project focused on Neural Network Classification. It is part of a course in UC Berkeley's physics curriculum which I used to learn more in my free time. 
 
 ### MNIST Digit Classification With Keras
@@ -31,7 +31,7 @@ The second part of the project focused on classification of phases of particles 
 ### Redshift Estimation and Galaxy Classification
 This part of the project focused on estimating the redshift of a galaxy and classification of the galaxy using the K-Nearest Neighbors algorithm. It involved data preprocessing and hyperparameter optimization.
 
-## PHYS 240 ([link](https://github.com/rohitpenumarti/University-Projects/tree/dev/PHYS%20240))
+## Statistics, Data Analysis, and Machine Learning for Physicists ([link](https://github.com/rohitpenumarti/University-Projects/tree/dev/PHYS%20240))
 The PHYS 240 folder contains projects from my Statistics, Data Analysis, and Machine Learning for Physicists course. All assignments for the course were done using real world data from published papers on astronomy.
 
 ### Chi-square Fitting of Noisy Data and Likelihood Modeling of Supernova Neutrino Data ([link](https://github.com/rohitpenumarti/University-Projects/blob/dev/PHYS%20240/Homework%20%231.ipynb))
