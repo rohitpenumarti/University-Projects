@@ -26,7 +26,7 @@ The PHYS 188 folder contains a project focused on Neural Network Classification.
 This part of the project focused on classification of MNIST data, using 40000 training images and 10000 images for testing, using the Keras package in python. The process involved preprocessing the data, using different network architectures, and optimizing hyperparameters to achieve highest test accuracy. 
 
 ### 2D Ising Model Classification With Tensorflow
-The second part of the project focused on classification of phases of particles in the 2D Ising model using tensorflow. The project covered neural network architecture, data preprocessing, and optimization of hyperparameters to achieve best possible classification of states of particles at, above and below the critical temperature region determined by Onsager.
+The second part of the project focused on classification of phases of particles in the 2D Ising model using tensorflow. The project covered neural network architecture, data preprocessing, and optimization of hyperparameters to achieve best possible classification of phases of particles at, above and below the critical temperature region determined by Onsager.
 
 ### Redshift Estimation and Galaxy Classification
 This part of the project focused on estimating the redshift of a galaxy and classification of the galaxy using the K-Nearest Neighbors algorithm. It involved data preprocessing and hyperparameter optimization.
